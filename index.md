@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Monika & Ondrej
+![_20](https://user-images.githubusercontent.com/33074506/174849133-3f999188-4998-4e39-97ea-6a0196085c9d.jpg)
 
-You can use the [editor on GitHub](https://github.com/mkissova/mkissova.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Budeme se brat! 
 
 ### Markdown
 
